@@ -19,7 +19,7 @@
     
   <nav class="navbar navbar-expand-lg bg-dark">
   <div class="container-fluid">
-    <a class="navbar-brand text-light" href="#"><img src="https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-logo.svg" alt="" width="30" height="24" class="d-inline-block align-text-top"> Ben Jax</a>
+    <a class="navbar-brand text-light" href="#"><img src="https://scontent.xx.fbcdn.net/v/t1.15752-9/287362875_754440509222288_6416856110550362868_n.png?stp=dst-png_p206x206&_nc_cat=107&ccb=1-7&_nc_sid=aee45a&_nc_eui2=AeHtSNmPCW2HYUEnnbjUsP9ZwO3ZgTU7VdTA7dmBNTtV1ActzAY6d7piBFSabdfdZCrvbF2tfMG0aMr3Xv62N0pe&_nc_ohc=wH3fF6nklPQAX-8ztte&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AVJV_xA_A4N1c2fmwcXPcnW13ZdTeTB2BdQaJAnO3mPlhA&oe=6312C448" alt="" width="30" height="24" class="d-inline-block align-text-top"> Ben Jax</a>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
@@ -29,7 +29,7 @@
           <a class="nav-link active text-light active" aria-current="page" href="index.php"><i class="bi bi-house-door"></i> หน้าแรก</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link disabled text-light"><i class="bi bi-person"></i> สมัครสมาชิก</a>
+          <a class="nav-link active text-light active" aria-current="page" href="frmRegister.php"><i class="bi bi-person"></i> สมัครสมาชิก</a>
         </li>
       </ul>
       <form class="d-flex" role="search">
@@ -38,6 +38,6 @@
     </div>
   </div>
 </nav>
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-A3rJD856KowSb7dwlZdYEkO39Gagi7vIsF0jrRAoQmDKKtQBHUuLZ9AsSv4jD4Xa" crossorigin="anonymous"></script>
+
   </body>
 </html>
